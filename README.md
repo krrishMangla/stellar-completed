@@ -1,1 +1,2 @@
-# stellar-completed
+# Stellar-app
+project app
